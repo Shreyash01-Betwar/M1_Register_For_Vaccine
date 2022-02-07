@@ -35,3 +35,10 @@
 - Local vaccination centre.
 #### How
 - Online registration and on field verification using local server.
+
+
+### High Level Requirements:
+- System should be able to access pre loaded registration data for verification
+
+### Low Level Requirements:
+- Only new user must be given an option to select vaccine type
