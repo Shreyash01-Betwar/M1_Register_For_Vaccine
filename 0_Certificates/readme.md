@@ -1,6 +1,6 @@
-# All Certifications
+# 📃All Certifications
 
-A small brief information about C Programming and to understand Linux OS and Command Line Interface.
+- A small brief information about C Programming and to understand Linux OS and Command Line Interface.
 Also a Github Learning to understand the github usage.
 
 
