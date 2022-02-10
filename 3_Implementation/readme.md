@@ -10,7 +10,7 @@
 - Analysing and Debugging the Code.
 - The Final Project was fit into SDLC Approach.
 
-### Note: * 📂This folder conatins all the coding files as well as the resources and testing files neede for proper execution of program.
+### Note: * 📂This folder conatins all the coding files as well as the resources and testing files needed for proper execution of program.
 
 
 
