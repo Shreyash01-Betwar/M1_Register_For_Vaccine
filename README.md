@@ -4,7 +4,7 @@ A Mini Project (Each and Every Person to Register for a Vaccination.) 💊🩺
 > # Implementation of Code: 
 | Codacy | Code Inspector | CI | Unity |
 | --- | --- | --- | --- |
-|  [![Codacy Badge](https://app.codacy.com/project/badge/Grade/f4144592a6e44c218b238227ddb47e2f)](https://www.codacy.com/gh/Shreyash01-Betwar/M1_Register_For_Vaccine/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Shreyash01-Betwar/M1_Register_For_Vaccine&amp;utm_campaign=Badge_Grade)  | ![Code Grade](https://api.codiga.io/project/31064/score/svg)   ![Code Grade](https://api.codiga.io/project/31064/status/svg)  | [![C/C++ CI](https://github.com/Shreyash01-Betwar/M1_Register_For_Vaccine/actions/workflows/c-build.yml/badge.svg)](https://github.com/Shreyash01-Betwar/M1_Register_For_Vaccine/actions/workflows/c-build.yml)
+|  [![Codacy Badge](https://app.codacy.com/project/badge/Grade/f4144592a6e44c218b238227ddb47e2f)](https://www.codacy.com/gh/Shreyash01-Betwar/M1_Register_For_Vaccine/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Shreyash01-Betwar/M1_Register_For_Vaccine&amp;utm_campaign=Badge_Grade)  | ![Code Grade](https://api.codiga.io/project/31064/score/svg)   ![Code Grade](https://api.codiga.io/project/31064/status/svg)  | [![C/C++ CI](https://github.com/Shreyash01-Betwar/M1_Register_For_Vaccine/actions/workflows/c-build.yml/badge.svg)](https://github.com/Shreyash01-Betwar/M1_Register_For_Vaccine/actions/workflows/c-build.yml) | [![Unity Testing - Unity](https://github.com/Shreyash01-Betwar/M1_Register_For_Vaccine/actions/workflows/unity.yml/badge.svg)](https://github.com/Shreyash01-Betwar/M1_Register_For_Vaccine/actions/workflows/unity.yml)
 
 
 ## Folder structure:
