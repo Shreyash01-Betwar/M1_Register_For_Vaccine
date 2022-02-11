@@ -2,16 +2,16 @@
 #include "regist.h"
 
 
-// Program begins from this section
+
 int main(){
     
-    int status;         // A return parameter to check status of patient
-    long p;             // Variable that stores patient's aadhar number
-    int v1=0,v2=0;      //Vaccine type 1 and 2 quantity
+    int status;         
+    long p;             
+    int v1=0,v2=0;      
     
     existregist();
     
-    int attmpt=1000;    // Variable that determines the total number of execution required by EOD
+    int attmpt=1000;    
     while(attmpt>0){
         
     aply:
@@ -20,7 +20,7 @@ int main(){
     scanf("%li",&p);
    
     
-    status = regist_status(p);
+    status = regStat(p);
     int i,j=0,vstat=0,choice=0,pno;
     
     i=1;
@@ -89,7 +89,7 @@ int main(){
             goto prv2;
         }nxt2:
 
-    vstat=vaccine_status(j);        //Status of patient based on being vaccinated
+    vstat=vacineStat(j);        
 
     if(vstat==1)
         printf("Please take your first vaccine\nYou have been vaccinated once\n");
