@@ -1,4 +1,4 @@
-name: cppChek-action
+name: cppcheck-action
 
 on: [push]
 
