@@ -2,9 +2,9 @@
 #define REGIST_C
 
  
-int regStat(long pd ); // Now in header file we need to declare…
+int regist_status(long pd ); // Now in header file we need to declare…
 int existregist();
-int vacineStat(int );
+int vaccine_status(int );
 
 
 typedef struct patient{
