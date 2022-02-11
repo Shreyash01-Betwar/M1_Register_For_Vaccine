@@ -20,7 +20,7 @@ int main(){
     scanf("%li",&p);
    
     
-    status = regStat(p);
+    status = regist_status(p);
     int i,j=0,vstat=0,choice=0,pno;
     
     i=1;
@@ -89,7 +89,7 @@ int main(){
             goto prv2;
         }nxt2:
 
-    vstat=vacineStat(j);        
+    vstat=vaccine_status(j);        
 
     if(vstat==1)
         printf("Please take your first vaccine\nYou have been vaccinated once\n");
