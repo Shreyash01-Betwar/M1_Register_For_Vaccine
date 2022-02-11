@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include "regist.h"
 
-int regStat(long p){
+int regist_status(long p){
 
     // Checks for registration details of new patients
     // Detailed about each persons…
@@ -20,7 +20,7 @@ int regStat(long p){
 }
 
 
-int vacineStat(int i){
+int vaccine_status(int i){
      
     if (pd[i].vaccine_doses==0){
         pd[i].vaccine_doses++;
