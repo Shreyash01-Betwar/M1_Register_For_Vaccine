@@ -1,9 +1,10 @@
 #include <stdio.h>
 #include "regist.h"
 
-int regist_status(long p){
+int regStat(long p){
 
-    // Checks for registration details of new patients    
+    // Checks for registration details of new patients
+    // Detailed about each persons…
     pd[0].aadhar=p;
     int i=1;
     while(i<=1000){
@@ -18,8 +19,8 @@ int regist_status(long p){
     return -1;
 }
 
-// Checks how many doses should be given
-int vaccine_status(int i){
+
+int vacineStat(int i){
      
     if (pd[i].vaccine_doses==0){
         pd[i].vaccine_doses++;
@@ -33,3 +34,4 @@ int vaccine_status(int i){
         return 0;
 
 }
+// The above line of code helps to check the no of Vacines taken…
