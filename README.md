@@ -36,6 +36,9 @@ A Mini Project (Each and Every Person to Register for a Vaccination.) 💊🩺
 
 * Note: For this project I took the reference from Youtube videos to build the certain amount of code.
 C Programming Project Ideas With Source Code, Project on C Programming - YouTube
+* Note: For Badges took help from GitHub link (Wiki) GitHub workflow for Windows and Linux OS.
+GitHub_Workflow · stepin654321/MiniProject_Template Wiki
+
 
 
 
